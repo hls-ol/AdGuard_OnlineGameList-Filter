@@ -4991,7 +4991,6 @@
 ||insel-monarchie.de^
 ||inselkampf.de^
 ||insidemacgames.com^
-||insideplaystation.com^
 ||insight.director-3d.com^
 ||insociables.com^
 ||instagamez.com^
@@ -8374,7 +8373,6 @@
 ||playsite247.com^
 ||playsmash.com^
 ||playspace.com^
-||playstation.com^
 ||playsupergames.info^
 ||playsupermario.com^
 ||playsupermario.net^
