@@ -817,7 +817,6 @@ sites.google.com/site/unblockurgames
 ||awfularcades.com^
 ||awfulgames.com^
 ||awplanet.com^
-||aws.amazon.com^
 ||axelgame.free.fr^
 ||axeso5.com^
 ||axeuk.com^
@@ -7527,7 +7526,6 @@ sites.google.com/site/unblockurgames
 ||netcartas.com.br^
 ||netdragons.com^
 ||netflix-movies.cc^
-||netflix.com^
 ||netgame.com^
 ||nethry.cz^
 ||netigame.fr^
