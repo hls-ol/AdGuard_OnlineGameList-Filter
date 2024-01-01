@@ -11089,6 +11089,7 @@
 ||fortnite.com^
 ||spiel2.com^
 ||teambuilding.com/blog/online-team-building-games^
+||teambuilding.com^
 ||gratisspiele.at^
 ||topgames.com/onlinegames^
 ||casino.org/games/free^
