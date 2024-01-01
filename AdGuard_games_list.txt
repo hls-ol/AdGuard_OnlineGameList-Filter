@@ -48,7 +48,7 @@
 |https://t-online.de/spiele/online-spiele
 !
 ! blocked domains
-||teambuilding.com^
+||teambuilding.com^*/blog/online-team-building-games*
 ||1001games.fr^
 ||007arcadegames.com^
 ||01-jeux-gratuit.com^
