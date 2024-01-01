@@ -44,10 +44,11 @@
 |https://casino.org/games/free
 |https://rummikub.com/play-online
 |https://casino.guru/free-casino-games
-|teambuilding.com/blog/online-team-building-games
+!|teambuilding.com/blog/online-team-building-games
 |https://t-online.de/spiele/online-spiele
 !
 ! blocked domains
+||teambuilding.com^
 ||1001games.fr^
 ||007arcadegames.com^
 ||01-jeux-gratuit.com^
