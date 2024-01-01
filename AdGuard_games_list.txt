@@ -44,7 +44,7 @@
 |https://casino.org/games/free^
 |https://rummikub.com/play-online^
 |https://casino.guru/free-casino-games^
-https://teambuilding.com/blog/online-team-building-games^
+teambuilding.com/blog/online-team-building-games
 https://t-online.de/spiele/online-spiele^
 !
 ! blocked domains
