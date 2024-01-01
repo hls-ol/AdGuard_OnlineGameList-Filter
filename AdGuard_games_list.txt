@@ -1,37 +1,37 @@
 ! HowTo add lines: https://adguard.com/kb/de/general/ad-filtering/create-own-filters/
-! ||domain.com > blocks whole domain
+! ||domain.com^ > blocks whole domain
 ! |https://domain.com/sub/folder > blocks exact address
 !
 ! blocked exact addresses
-|https://groups.google.com/forum/#!forum/daily-web-proxies^
-|https://sites.google.com/site/agariounblocked^
-|https://sites.google.com/site/albin19832^
-|https://sites.google.com/site/arcade56games^
-|https://sites.google.com/site/chromebookhack^
-|https://sites.google.com/site/eaglepassunblockedgames^
-|https://sites.google.com/site/fullunblockedmovies24^
-|https://sites.google.com/site/kriigames^
-|https://sites.google.com/site/laptoparcade^
-|https://sites.google.com/site/megaunblockedgames^
-|https://sites.google.com/site/millseagles^
-|https://sites.google.com/site/minimunch57games^
-|https://sites.google.com/site/minimunch57gameurls3^
-|https://sites.google.com/site/new2studyhall2/games^
-|https://sites.google.com/site/noodelcade^
-|https://sites.google.com/site/playfunblocked^
-|https://sites.google.com/site/punblockedgames^
-|https://sites.google.com/site/subgfyfs^
-|https://sites.google.com/site/unblockedadventures^
-|https://sites.google.com/site/unblockedgames1738^
-|https://sites.google.com/site/unblockedgames24h^
-|https://sites.google.com/site/unblockedgames2x^
-|https://sites.google.com/site/unblockedgames333^
-|https://sites.google.com/site/unblockedgames4me^
-|https://sites.google.com/site/unblockedgames66^
-|https://sites.google.com/site/unblockedgames77^
-|https://sites.google.com/site/unblockedgamesaz^
-|https://sites.google.com/site/unblockedgamesbeast^
-|https://sites.google.com/site/unblockedgamesbolich^
+|https://groups.google.com/forum/#!forum/daily-web-proxies
+|https://sites.google.com/site/agariounblocked
+|https://sites.google.com/site/albin19832
+|https://sites.google.com/site/arcade56games
+|https://sites.google.com/site/chromebookhack
+|https://sites.google.com/site/eaglepassunblockedgames
+|https://sites.google.com/site/fullunblockedmovies24
+|https://sites.google.com/site/kriigames
+|https://sites.google.com/site/laptoparcade
+|https://sites.google.com/site/megaunblockedgames
+|https://sites.google.com/site/millseagles
+|https://sites.google.com/site/minimunch57games
+|https://sites.google.com/site/minimunch57gameurls3
+|https://sites.google.com/site/new2studyhall2/games
+|https://sites.google.com/site/noodelcade
+|https://sites.google.com/site/playfunblocked
+|https://sites.google.com/site/punblockedgames
+|https://sites.google.com/site/subgfyfs
+|https://sites.google.com/site/unblockedadventures
+|https://sites.google.com/site/unblockedgames1738
+|https://sites.google.com/site/unblockedgames24h
+|https://sites.google.com/site/unblockedgames2x
+|https://sites.google.com/site/unblockedgames333
+|https://sites.google.com/site/unblockedgames4me
+|https://sites.google.com/site/unblockedgames66
+|https://sites.google.com/site/unblockedgames77
+|https://sites.google.com/site/unblockedgamesaz
+|https://sites.google.com/site/unblockedgamesbeast
+|https://sites.google.com/site/unblockedgamesbolich
 |https://sites.google.com/site/unblockedgamescoolmath
 |https://sites.google.com/site/unblockedgamesk10
 |https://sites.google.com/site/unblockedgamesonlinefree
@@ -40,13 +40,12 @@
 |https://sites.google.com/site/unblockedgamesweebly
 |https://sites.google.com/site/unblockedmovies1
 |https://sites.google.com/site/unblockurgames
-|https://topgames.com/onlinegames^
-|https://casino.org/games/free^
-|https://rummikub.com/play-online^
-|https://casino.guru/free-casino-games^
-|http://teambuilding.com/blog/online-team-building-games^
-|https://teambuilding.com/blog/online-team-building-games^
-https://t-online.de/spiele/online-spiele^
+|https://topgames.com/onlinegames
+|https://casino.org/games/free
+|https://rummikub.com/play-online
+|https://casino.guru/free-casino-games
+|https://teambuilding.com/blog/online-team-building-games
+|https://t-online.de/spiele/online-spiele
 !
 ! blocked domains
 ||1001games.fr^
