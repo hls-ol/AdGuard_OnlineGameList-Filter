@@ -44,8 +44,6 @@
 |https://casino.org/games/free
 |https://rummikub.com/play-online
 |https://casino.guru/free-casino-games
-||https://t-online.de/spiele/online-spiele^$important
-||https://teambuilding.com/blog/online-team-building-games^$important
 !
 ! blocked domains
 ||1001games.fr^
@@ -5024,7 +5022,6 @@
 ||internetgames.pl^
 ||internetgames247.com^
 ||internetgamesfree.com^
-||internetmatters.org^
 ||interwetten.com^
 ||invocato.com^
 ||io.game^
@@ -11101,3 +11098,15 @@
 ||spiel2.com^
 ||gratisspiele.at^
 ||puzzlegarage.com^
+||spiele.bild.de^
+||t-online.de^
+||teambuilding.com^
+||50plus.de^
+||playhop.com^
+||boardgamearena.com^
+||spiele.rtl2.de^
+||games.focus.de^
+||games.tipico.de^
+||funnygames.eu^
+||game-game.com.de^
+||games.web.de^
