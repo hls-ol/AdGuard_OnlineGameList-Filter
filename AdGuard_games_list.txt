@@ -11110,3 +11110,10 @@
 ||funnygames.eu^
 ||game-game.com.de^
 ||games.web.de^
+||migano.de^
+||spiels.at^
+||yandex.com^
+||spiele.connect.de^
+||games.gmx.net^
+||yandex.com^
+||onlinegames.io^
